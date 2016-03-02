@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=KeeWeb
+Comment=KeePass web app (unofficial)
+Exec=%{HOME}/.local/share/keeweb/KeeWeb.linux.x64/KeeWeb
+Terminal=false
+Type=Application
+Icon=KeeWeb
+Categories=Utility;
+StartupNotify=true
